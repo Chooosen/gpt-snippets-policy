@@ -1,0 +1,1 @@
+# gpt-snippets-policy
